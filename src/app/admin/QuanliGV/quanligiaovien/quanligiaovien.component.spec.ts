@@ -8,7 +8,7 @@ describe('QuanligiaovienComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [QuanligiaovienComponent]
+      declarations: [QuanligiaovienComponent]
     })
     .compileComponents();
 
